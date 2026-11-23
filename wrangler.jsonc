@@ -1,5 +1,5 @@
 {
-  "name": "winterwatch-ultra-relay",
+  "name": "final-winterwatch-repo",
   "main": "worker.mjs",
   "compatibility_date": "2026-11-23",
   "workers_dev": true,
